@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: compyl-ai
+    description: compyl.ai - AI app builder
